@@ -1,8 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Mira Finance Data Room
+description: All the info you need.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mirafinance.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/miralogo.png"
+
+# responsive_image:
+#   template: _includes/responsive-image.html
+#   sizes:
+#     - width: 320
+#     - width: 480
+#     - width: 800
+
+plugins:
+  - jekyll-target-blank
+  - jekyll-pdf-embed
+  # - jekyll-responsive-image

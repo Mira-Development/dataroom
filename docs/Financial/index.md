@@ -3,7 +3,7 @@ layout: default
 title: Financial
 nav_order: 3
 has_children: true
-permalink: /docs/financial
+permalink: /docs/financial/index.html
 ---
 
 # Financial

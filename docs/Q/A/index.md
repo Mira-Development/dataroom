@@ -3,7 +3,7 @@ layout: default
 title: Q&A
 nav_order: 5
 has_children: true
-permalink: /docs/qa
+permalink: /docs/qa/index.html
 ---
 
 # Q&A

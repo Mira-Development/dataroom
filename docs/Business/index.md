@@ -3,7 +3,7 @@ layout: default
 title: Business
 nav_order: 2
 has_children: true
-permalink: /docs/Business
+permalink: /docs/Business/index.html
 ---
 
 # Business

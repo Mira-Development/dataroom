@@ -2,7 +2,7 @@
 layout: default
 title: Investment Cap Table
 parent: Financial
-nav_order: 1
+nav_order: 3
 ---
 
 # Investment Cap Table

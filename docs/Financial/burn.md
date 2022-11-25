@@ -2,7 +2,7 @@
 layout: default
 title: Burn Rate
 parent: Financial
-nav_order: 3
+nav_order: 2
 ---
 
 # Burn Rate

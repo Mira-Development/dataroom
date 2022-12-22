@@ -7,10 +7,10 @@ nav_order: 6
 
 # What traction have you received so far?
 
-We won xHack, a hackathon hosted by Wormhole and Jump Capital in Chicago. 
+We won two hackathons: xHack, hosted by Wormhole and Jump Capital, and DoraHacks.
 
-We've made partnerships with a lot of big players, like LayerZero, Axelar, Pontem, Notifi, and more. We've built a strong community of followers and early users on our Discord and Twitter. 
+We built multiple fully functional smart contract modules, a fluid UX, an integrated dApp, and a backend server to manage off-chain data in less than two months. 
 
-We've managed to build out a powerful product at extremely low cost and slow burn. 
+We’ve made partnerships with LayerZero, Axelar, Pontem, Notifi, and other players that streamline functionality for our protocol. 
 
-We built multiple fully functional smart contract modules, a fluid UX, an integrated dApp, and a backend server to manage off-chain data in less than two months. After raising 130k, based on our current burn rate, we have ~9 months of runway.
+We’ve built a strong community of beta users on our Discord (6k) and Twitter (8k).

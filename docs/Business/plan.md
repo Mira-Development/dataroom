@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Business Plan
+title: Tech Specs
 parent: Business
 nav_order: 5
 ---
 
-# Business Plan
+# Tech Specs
 
-{% pdf "/plan.pdf" %}
+{% pdf "/specs.pdf" %}
